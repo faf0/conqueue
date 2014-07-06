@@ -1,6 +1,7 @@
 # About
 
-This is a thread safe, re-entrant implementation of a double-ended queue.
+This is a double-ended queue (linked list) implementation providing
+thread-safe and re-entrant interface functions.
 It supports the following operations
 
 * push front
