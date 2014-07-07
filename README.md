@@ -2,7 +2,7 @@
 
 This is a double-ended queue (linked list) implementation providing
 thread-safe and re-entrant interface functions.
-It supports the following operations
+It supports the following operations:
 
 * push front
 * push back
